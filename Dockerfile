@@ -1,5 +1,5 @@
 FROM centos
-
+MAINTAINER gzz "kuailenaiping@sina.com"
 # OS
 RUN yum install -y wget
 
